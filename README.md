@@ -9,9 +9,10 @@
 - Successfully resolved technical challenges, such as handling API responses, dynamically generating HTML elements, and creating clickable image links, contributing to a fully functional and user-friendly application.
 
 ### Images of the project:
-[The homepage](./images/imageProject.PNG)
+[The homepage](images/imageProject.PNG)
 
-[Search Button](./images/search.PNG)
+[Search Button](images/search.PNG)
 
-[Show More Button](./images/showMore.PNG)
+[Show More Button](images/showMore.PNG)
+
 
